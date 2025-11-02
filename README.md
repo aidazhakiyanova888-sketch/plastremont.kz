@@ -182,8 +182,7 @@
     <div class="container">
       <div class="row">
         <div class="brand">
-          <img
-            src=aidazhakiyanova888-sketch-patch-1 alt="plastremont.kz logo" />
+          <img src=aidazhakiyanova888-sketch-patch-1 alt="plastremont.kz logo" />
           <div>
             <div style="font-size:13px;opacity:0.9">Пластиковые окна и двери</div>
             <h1 class="site-title">plastremont.kz</h1>
