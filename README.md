@@ -182,7 +182,7 @@
     <div class="container">
       <div class="row">
         <div class="brand">
-          <img src=grok_image_l5qla7.jpg alt="plastremont.kz logo" 
+          <img src=grok_image_l5qla7.jpg alt="grok_image_l5qla7.jpg" 
             img/>
           <div>
             <div style="font-size:13px;opacity:0.9">Пластиковые окна и двери</div>
