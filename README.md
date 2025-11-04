@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Plastremont.kz — Ремонт пластиковых окон и дверей</title>
+  <title>Plastremontemer.kz — Ремонт пластиковых окон и дверей</title>
   <meta name="description" content="Ремонт пластиковых окон и дверей — монтаж, замена уплотнителя, навесов, стеклопакетов. Быстро и качественно." />
   <style>
     :root {
